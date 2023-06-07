@@ -312,6 +312,7 @@ a:visited {
 @media screen and (max-width: 480px) {
   body{
     padding: 0;
+    margin: 0.6em;
   }
 
   html::-webkit-scrollbar {
